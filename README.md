@@ -1,2 +1,5 @@
-# cransna
-A complex network analysis of the Comprehensive R Archive Network (CRAN) package ecosystem
+# A complex network analysis of the Comprehensive R Archive Network (CRAN) package ecosystem
+
+Mora-Cantallops, M., Sánchez-Alonso, S. and García-Barriocanal, E., 2020. A complex network analysis of the Comprehensive R Archive Network (CRAN) package ecosystem. Journal of Systems and Software, 170, p.110744.
+
+Free and open source software package ecosystems have existed for a long time and are among the most sophisticated human-made systems. One of the oldest and most popular software package ecosystems is CRAN, the repository of packages of the statistical language R, which is also one of the most popular environments for statistical computing nowadays. CRAN stores a large number of packages that are updated regularly and depend on a number of other packages in a complex graph of relations; such graph is empirically studied from the perspective of complex network analysis (CNA) in the current article, showing how network theory and measures proposed by previous work can help profiling the ecosystem and detecting strengths, good practices and potential risks in three perspectives: macroscopic properties of the ecosystem (structure and complexity of the network), microscopic properties of individual packages (represented as nodes), and modular properties (community detection). Results show how complex network analysis tools can be used to assess a package ecosystem and, in particular, that of CRAN.
